@@ -4,4 +4,4 @@ Console progrem.
 
 This a first test project where I learn using an escape consequences.
 
-Using only Write method/
+Using only Write method.
