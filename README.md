@@ -6,7 +6,6 @@ https://github.com/yoricsv/EscapeConsequences_On_CSharp.git
 ```
 
 **TYPE** | **Discription**
----
 ---: | :---
 file | *README.md*
 application type | *Console progrem*
