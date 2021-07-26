@@ -9,8 +9,7 @@ https://github.com/yoricsv/EscapeConsequences_On_CSharp.git
 ---: | :---
 file | *README.md*
 application type | *Console progrem*
-brief | *This a first test project where I learn using an escape consequences*
-Note | *Using only Write method*
+brief | *Console output practice*
  
  <!--
  /*
